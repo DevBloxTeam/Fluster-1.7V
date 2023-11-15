@@ -1,0 +1,10 @@
+{
+
+HttpGet:["roblox.com"]
+HttpMobile:["mobileapi"]
+HttpVersion:["check-app-version?"]
+HttpPost:["AppVersion"]
+HttpVersion:["2.592.586"]
+RevertVersion:["0.000.000"] -- find your own bypass
+RevertText:["None"]
+}
