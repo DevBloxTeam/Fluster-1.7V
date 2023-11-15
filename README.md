@@ -16,7 +16,7 @@ Note: you can change  numbers :) (oldversion only) (coming soon)
 
 
 http://localhost:3000/checkUpdate?currentVersion=AppUWPV2.592.586 
-this is new version you can change  numbers :)
+this is new version you can change  numbers :) (after program opened)
 
 use npm i express
 
